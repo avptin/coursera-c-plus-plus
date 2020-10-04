@@ -1,0 +1,21 @@
+{
+    "clang-format.fallbackStyle": "Google",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "bazel.buildifierFixOnFormat": true,
+    "editor.defaultFormatter": "xaver.clang-format",
+    "files.associations": {
+        "map": "cpp",
+        "xstring": "cpp",
+        "iomanip": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "stdexcept": "cpp",
+        "system_error": "cpp"
+    },
+    "[cpp]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    }
+}
