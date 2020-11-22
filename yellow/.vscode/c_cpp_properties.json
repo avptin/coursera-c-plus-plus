@@ -3,6 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
+                "${workspaceFolder}/w3_04_decomp/**",
                 "${workspaceFolder}/**"
             ],
             "defines": [

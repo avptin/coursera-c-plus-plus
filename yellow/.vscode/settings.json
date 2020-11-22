@@ -13,7 +13,17 @@
         "iosfwd": "cpp",
         "iostream": "cpp",
         "stdexcept": "cpp",
-        "system_error": "cpp"
+        "system_error": "cpp",
+        "initializer_list": "cpp",
+        "set": "cpp",
+        "xutility": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "regex": "cpp",
+        "stack": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "utility": "cpp"
     },
     "[cpp]": {
         "editor.defaultFormatter": "xaver.clang-format"
